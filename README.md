@@ -1,15 +1,15 @@
-#### Hello!
-#### I am Kitty,
-#### I love cats!
-#### And I love programming,
-#### That's everything you need to know.
+Hello!
+I am Kitty,
+I love cats!
+And I love programming,
+That's everything you need to know.
 
 ---
 
 ## Operating Systems I use:
-#### PersonalOS: Windows
-#### TravelOS: MacOS
-#### WorkOS: Ubuntu
+PersonalOS: Windows
+TravelOS: MacOS
+WorkOS: Ubuntu
 
 ---
 ### Editors
