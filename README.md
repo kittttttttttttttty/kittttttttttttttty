@@ -1,17 +1,18 @@
-Hello!
-I am Kitty,
-I love cats!
-And I love programming,
-That's everything you need to know.
+## Hello!
+### I am Kitty,
+### I love cats!
+### And I love programming,
+### That's everything you need to know.
 
 ---
 
 ## Operating Systems I use:
-PersonalOS: Windows
-TravelOS: MacOS
-WorkOS: Ubuntu
+### PersonalOS: Windows
+### TravelOS: MacOS
+### WorkOS: Ubuntu
 
 ---
+
 ### Editors
 <img alt="Static Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visualstudiocode&logoColor=3570AB&labelColor=%23000000&color=%235FA8EC">
 <img alt="Static Badge" src="https://img.shields.io/badge/Editor-Intellij%20Idea-blue?logo=intellijidea&logoColor=E34765&labelColor=%23000000&color=%233777EC">
